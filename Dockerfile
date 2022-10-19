@@ -1,2 +1,2 @@
-FROM rohitroax123/moquil
+FROM rohitroax123/moquilmk
 MAINTAINER rohit-pawar
