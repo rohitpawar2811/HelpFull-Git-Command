@@ -1,0 +1,2 @@
+FROM 118728153888.dkr.ecr.us-east-1.amazonaws.com/tk
+MAINTAINER rohit-pawar
