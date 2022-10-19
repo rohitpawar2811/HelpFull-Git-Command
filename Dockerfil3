@@ -1,0 +1,2 @@
+FROM localhost:5000/moquil
+MAINTAINER rohit-pawar
