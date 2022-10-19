@@ -1,2 +1,2 @@
-FROM rohitroax123/moquilmk
+FROM node
 MAINTAINER rohit-pawar
