@@ -1,0 +1,2 @@
+FROM rohitroax123/moquij
+MAINTAINER rohit-pawar
