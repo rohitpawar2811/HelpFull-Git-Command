@@ -24,3 +24,6 @@ git checkout oldbranch
 git stash pop
 
 Yes, stash is global, not branch specific, if I stash pop after switching branch I'll get the same stash as on the other branch(es).
+3)
+git diff framework/service/org/moqui/impl/InstanceServices.xml framework/src/main/resources/MoquiDefaultConf.xml framework/build.gradle > moqui_multi_instance1.patch
+git patch making cmd
