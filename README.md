@@ -27,3 +27,15 @@ Yes, stash is global, not branch specific, if I stash pop after switching branch
 3)
 git diff framework/service/org/moqui/impl/InstanceServices.xml framework/src/main/resources/MoquiDefaultConf.xml framework/build.gradle > moqui_multi_instance1.patch
 git patch making cmd
+
+4). Important point to contribute 
+  * Fork Repo
+  * Clone your one Forked-Repo.
+  * Now Create a branch specific to PR-Purpose named.
+  * And now make changes on them and commit to remote.
+  * Create PR and add details on it. 
+  * Thats it.
+  
+  Note : The Branch from which you have created PR is now linked to that PR , now any changes on that branch like commit directly reflects to the created PR.
+  
+  Branch - >commit -> Linked-PR (So Simple)
