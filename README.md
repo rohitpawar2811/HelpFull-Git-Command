@@ -39,3 +39,5 @@ git patch making cmd
   Note : The Branch from which you have created PR is now linked to that PR , now any changes on that branch like commit directly reflects to the created PR.
   
   Branch - >commit -> Linked-PR (So Simple)
+
+5).git clone -b [tag_name] [repository_url]
