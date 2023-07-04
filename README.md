@@ -28,7 +28,10 @@ Yes, stash is global, not branch specific, if I stash pop after switching branch
 git diff framework/service/org/moqui/impl/InstanceServices.xml framework/src/main/resources/MoquiDefaultConf.xml framework/build.gradle > moqui_multi_instance1.patch
 git patch making cmd
 
-4). Important point to contribute 
+4).
+git stash pop stash@{1}
+
+10). Important point to contribute 
   * Fork Repo
   * Clone your one Forked-Repo.
   * Now Create a branch specific to PR-Purpose named.
